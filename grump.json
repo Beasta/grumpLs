@@ -1,0 +1,10 @@
+{
+  "defaultCommand": "ls",
+  "commands": {
+    "ls": {
+      "scriptType": "bash",
+      "scriptPath": "ls.sh",
+      "vars": {}
+    }
+  }
+}
